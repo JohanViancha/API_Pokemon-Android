@@ -1,0 +1,2 @@
+rootProject.name = "Consumir_API_Pokemon"
+include ':app'
